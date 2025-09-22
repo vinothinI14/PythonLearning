@@ -1,0 +1,5 @@
+datasources:8d26d691f9ec513d1050b1a06c0da9fa2ec97fb8
+commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
+suitesfrom:no-suites-from-option
+file:adcf1c219b7beb95d889f4044b8a16693e949328
+--test endToendPractice.Verify cards title in the shop page
